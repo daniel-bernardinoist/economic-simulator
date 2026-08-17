@@ -1,3 +1,5 @@
+package core;
+
 public class Country {
     private String name;
     private int population;
@@ -44,3 +46,4 @@ public class Country {
     public void setWheat(int wheat) {
         this.wheat = wheat;
     }
+}
